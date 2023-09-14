@@ -25,7 +25,7 @@
 
 <p class="semi-title">Feel free to check out my previous projects:</p>
 <ul>
-  <li>Project 1</li>
+  <li><a href="https://github.com/Jensern1/Snake">Snake</a></li>
   <li>Project 2</li>
   <li>Project 3</li>
 </ul>
