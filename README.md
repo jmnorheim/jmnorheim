@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jens Martin Norheim Berget</h1>
 <h3 align="center">An eager-to-learn Computer Science student from Norway</h3>
 
-- 🔭 I’m currently working on **Prosjekt 1**
+**My current projects are:  
+- 🔭 An app for the UKA student festival in Norway
 
-- 👯 test **test**
-
-- 🤝 tes [test](test)
+- 👯 A website for displaying random quotes retrieved from an API
 
 - 📫 How to reach me **jmnb1@outlook.com**
 
