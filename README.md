@@ -10,13 +10,13 @@
 <p class="semi-title">Feel free to check out my previous projects:</p>
 <ul>
   <li><a href="https://github.com/Jensern1/Snake">Snake</a></li>
-  <li><a href="https://github.com/Jensern1/Back2Pack">Back2Pack</a></li>
+  <li><a href="https://github.com/Jensern1/Back2Pack">Back2Pack</a> (a website where backpackers can post their trips)</li>
   <li><a href="https://github.com/Jensern1/FridgeManager">FridgeManager</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  📫 How to reach me <a href="mailto:jmnb1@outlook.com">jmnb1@outlook.com</a>
+  📫 How to reach me: <a href="mailto:jmnb1@outlook.com">jmnb1@outlook.com</a>
 </p>
 
 </body>
