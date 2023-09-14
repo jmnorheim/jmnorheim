@@ -20,7 +20,7 @@
 <p class="bold-underline">My current projects are:</p>
 <ul>
   <li>🔭 An app for the UKA student festival in Norway</li>
-  <li>👯 A website for displaying random quotes retrieved from an API</li>
+  <li>👯 A website for displaying quotes fetched from a REST API
 </ul>
 
 <p class="semi-title">Feel free to check out my previous projects:</p>
