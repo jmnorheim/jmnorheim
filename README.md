@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Jens Martin Norheim Berget</h1>
 <h3 align="center">An eager-to-learn Computer Science student from Norway</h3>
 
