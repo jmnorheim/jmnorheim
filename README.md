@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jens Martin Norheim Berget</h1>
 <h3 align="center">An eager-to-learn Computer Science student from Norway</h3>
 
-**My current projects are:  
+**My current projects are:**  
 - 🔭 An app for the UKA student festival in Norway
 
 - 👯 A website for displaying random quotes retrieved from an API
