@@ -12,7 +12,7 @@
 <ul>
   <li><a href="https://github.com/Jensern1/Snake">Snake</a></li>
   <li><a href="https://github.com/Jensern1/Back2Pack">Back2Pack</a> (a website where backpackers can post their trips)</li>
-  <li><a href="https://github.com/Jensern1/FridgeManager">FridgeManager</a> (an application for managing your fridge)</li>
+  <li><a href="https://github.com/Jensern1/FridgeManager">FridgeManager</a> (an application that makes it easier to track expired foods in your fridge)</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
