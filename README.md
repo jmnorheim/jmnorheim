@@ -15,9 +15,10 @@
   <li><a href="https://github.com/Jensern1/FridgeManager">FridgeManager</a> (an application that makes it easier to track expired foods in your fridge)</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me::</h3>
 <p align="left">
-  📫 How to reach me: <a href="mailto:jmnb1@outlook.com">jmnb1@outlook.com</a>
+  📧 Email: <a href="mailto:jmnb1@outlook.com">jmnb1@outlook.com</a>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/jens-martin-norheim-berget-87560b141">LinkedIn Profile</a>
 </p>
 
 </body>
