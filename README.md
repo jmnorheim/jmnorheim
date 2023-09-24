@@ -17,8 +17,9 @@
 
 <h3 align="left">How to reach me::</h3>
 <p align="left">
-  📧 Email: <a href="mailto:jmnb1@outlook.com">jmnb1@outlook.com</a>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/jens-martin-norheim-berget-87560b141">LinkedIn Profile</a>
+  📧 Email: <a href="mailto:jmnb1@outlook.com">jmnb1@outlook.com</a>  
+  <br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/jens-martin-norheim-berget-87560b141">Jens Martin Norheim Berget</a>
 </p>
 
 </body>
