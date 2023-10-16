@@ -15,7 +15,7 @@
   <li><a href="https://github.com/Jensern1/FridgeManager">FridgeManager</a> (an application that makes it easier to track expired foods in your fridge)</li>
 </ul>
 
-<h3 align="left">How to reach me::</h3>
+<h3 align="left">How to reach me:</h3>
 <p align="left">
   📧 Email: <a href="mailto:jmnb1@outlook.com">jmnb1@outlook.com</a>  
   <br>
