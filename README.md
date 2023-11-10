@@ -5,7 +5,7 @@
 <p class="bold-underline">My current projects are:</p>
 <ul>
   <li>📱 An app for the UKA student festival in Norway, out now on App Store and Google Play as "UKA"</li>
-  <li>🌐 A movie-database website written in React + TS using GraphQL for queries, TanStack Query for fetching. Custom backend with an Apollo Server and Prisma Database</li>
+  <li>🌐 A movie-database website written in React + TS using GraphQL for queries, TanStack Query for fetching and custom backend with an Apollo Server and Prisma Database</li>
 </ul>
 
 <p class="semi-title">Feel free to check out my previous projects:</p>
