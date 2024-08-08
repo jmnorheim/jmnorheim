@@ -4,7 +4,7 @@
 
 <p class="bold-underline">My current projects are:</p>
 <ul>
-  <li>An internal tool for use in the norwegian insurance company Fremtind (obviously not public :))</li>
+  <li>An internal tool for use in the norwegian insurance company Fremtind Forsikring (obviously not public :) )</li>
   <li>An application to help people learn how different search algorithms work by visualizing them, called <a href="https://github.com/Spiderpig02/GalacticPathFinder" target="_blank" rel="noopener noreferrer">GalacticPathFinder<a/></li>
   <li>Some other secret stuff, TBA :)</li>
 </ul>
