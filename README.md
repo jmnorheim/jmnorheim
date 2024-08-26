@@ -9,7 +9,7 @@
   <li>Some other secret stuff, TBA :)</li>
 </ul>
 
-<p class="bold-underline">Some of my earlier projects include:</p>
+<p class="bold-underline">Some of my recent projects include:</p>
 <ul>
   <li>📱 An app for the UKA student festival in Norway, out now on App Store and Google Play as "UKA"</li>
   <li>🌐 A <a href="https://github.com/Jensern1/Movi.com" target="_blank" rel="noopener noreferrer">movie database website</a> written in React + TS using GraphQL for queries, TanStack Query for fetching and custom backend with an Apollo Server and Prisma Database</li>
@@ -17,7 +17,7 @@
 
 </ul>
 
-<p class="semi-title">Feel free to check out my previous projects:</p>
+<p class="semi-title">Feel free to check out my earlier projects:</p>
 <ul>
   <li><a href="https://github.com/Jensern1/Snake">Snake</a></li>
   <li><a href="https://github.com/Jensern1/Back2Pack">Back2Pack</a> (a website where backpackers can post their trips)</li>
