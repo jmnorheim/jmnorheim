@@ -4,13 +4,13 @@
 
 <p class="bold-underline">My current projects are:</p>
 <ul>
-  <li>An internal tool for use in the norwegian insurance company Fremtind Forsikring (obviously not public 🙂)</li>
   <li>An application to help people learn how different search algorithms work by visualizing them, deployed online <a href="https://galacticpathfinder.com/">here</a></li>
   <li>Some other secret stuff, TBA :)</li>
 </ul>
 
 <p class="bold-underline">Some of my recent projects include:</p>
 <ul>
+  <li>An internal tool for use in the norwegian insurance company Fremtind Forsikring (obviously not public 🙂)</li>
   <li>📱 An app for the UKA student festival in Norway, out now on App Store and Google Play as "UKA"</li>
   <li>🌐 A <a href="https://github.com/Jensern1/Movi.com" target="_blank" rel="noopener noreferrer">movie database website</a> written in React + TS using GraphQL for queries, TanStack Query for fetching and custom backend with an Apollo Server and Prisma Database</li>
   <li>🎮 A real-time multiplayer tower defense game written for Android called <a href="https://github.com/SverreNystad/besieged" target="_blank" rel="noopener noreferrer">Besieged<a/> </li>
