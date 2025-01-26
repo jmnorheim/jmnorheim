@@ -19,7 +19,7 @@
 
 <p class="semi-title">Feel free to check out my earlier projects:</p>
 <ul>
-  <li><a href="https://github.com/jmnorheim/Snake">Snake</a></li> (written in Java)
+  <li><a href="https://github.com/jmnorheim/Snake">Snake</a> (written in Java)</li> 
   <li><a href="https://github.com/jmnorheim/Back2Pack">Back2Pack</a> (a website where backpackers can post their trips)</li>
 </ul>
 
