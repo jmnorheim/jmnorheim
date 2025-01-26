@@ -21,7 +21,6 @@
 <ul>
   <li><a href="https://github.com/jmnorheim/Snake">Snake</a></li>
   <li><a href="https://github.com/jmnorheim/Back2Pack">Back2Pack</a> (a website where backpackers can post their trips)</li>
-  <li><a href="https://github.com/jmnorheim/FridgeManager">FridgeManager</a> (an application that makes it easier to track expired foods in your fridge)</li>
 </ul>
 
 <h3 align="left">How to reach me:</h3>
