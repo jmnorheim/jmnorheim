@@ -4,8 +4,8 @@
 
 ### Current Projects
 
-* <img src="./assets/logos/limiting-factor-inline-white.png" alt="Limiting Factor logo" height="18" /> Building the operating system to help make Norwegian companies AI-native at [Limiting Factor](https://www.limitingfactor.company/)
-* <img src="./assets/logos/skolara-compact.png" alt="Skolara logo" height="18" /> [Skolara](https://www.skolara.com/) — a platform used in more than 1300 classrooms across Norway and the world.
+* <img src="./assets/logos/limiting-factor-inline-white.png" alt="Limiting Factor logo" height="18" /> Building the last ever software product for companies at [Limiting Factor](https://www.limitingfactor.company/)
+* <img src="./assets/logos/skolara-compact.png" alt="Skolara logo" height="18" /> [Skolara](https://www.skolara.com/) — an ed-tech platform used in more than 1300 classrooms across Norway and the world.
 * <img src="./assets/logos/jmnb-inline-white.png" alt="JMNB logo" height="18" /> My personal website: [JMNorheim.no](https://www.jmnorheim.no/)
 
 ### Recent Projects
