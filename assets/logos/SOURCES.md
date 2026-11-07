@@ -8,3 +8,8 @@ All logos in this folder were downloaded from each brand's official site or offi
 - `gmail.svg`: https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v11/192px.svg
 - `linkedin.png`: https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/logos/in-logo.zip (`LI-In-Bug.png`)
 - `jmnb.png`: https://www.jmnorheim.no/jmnb_logo.png
+
+Derived neutral tile assets (logo pixels unchanged; only padded backgrounds for contrast):
+- `limiting-factor-tile.png`: from `limiting-factor.svg`
+- `linkedin-tile.png`: from `linkedin.png`
+- `jmnb-tile.png`: from `jmnb.png`

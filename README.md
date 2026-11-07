@@ -18,7 +18,7 @@ Computer Science graduate and techno-optimist from Norway.
   <tr>
     <td align="center">
       <a href="https://www.limitingfactor.company/">
-        <img src="./assets/logos/limiting-factor.svg" alt="Limiting Factor logo" height="38" />
+        <img src="./assets/logos/limiting-factor-tile.png" alt="Limiting Factor logo" height="38" />
       </a>
     </td>
     <td align="center">
@@ -40,12 +40,12 @@ Computer Science graduate and techno-optimist from Norway.
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/jens-martin-norheim-berget-87560b141">
-        <img src="./assets/logos/linkedin.png" alt="LinkedIn logo" height="38" />
+        <img src="./assets/logos/linkedin-tile.png" alt="LinkedIn logo" height="38" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.jmnorheim.no/">
-        <img src="./assets/logos/jmnb.png" alt="JMNB logo" height="38" />
+        <img src="./assets/logos/jmnb-tile.png" alt="JMNB logo" height="38" />
       </a>
     </td>
   </tr>
