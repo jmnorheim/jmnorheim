@@ -10,5 +10,5 @@ Compact logos used inline in `README.md`:
 - `jmnb.png`: https://www.jmnorheim.no/jmnb_logo.png
 
 Derived inline white variants (logo shape preserved, pure white pixels, transparent background):
-- `limiting-factor-inline.png`: from `limiting-factor.svg`
-- `jmnb-inline.png`: from `jmnb.png`
+- `limiting-factor-inline-white.png`: from `limiting-factor.svg`
+- `jmnb-inline-white.png`: from `jmnb.png`
