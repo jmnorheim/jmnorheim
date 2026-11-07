@@ -9,6 +9,6 @@ Compact logos used inline in `README.md`:
 - `linkedin-compact.png`: https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/logos/in-logo.zip (`LI-In-Bug.png`)
 - `jmnb.png`: https://www.jmnorheim.no/jmnb_logo.png
 
-Derived inline contrast variants (logo pixels unchanged; only neutral background/padding added):
+Derived inline white variants (logo shape preserved, pure white pixels, transparent background):
 - `limiting-factor-inline.png`: from `limiting-factor.svg`
 - `jmnb-inline.png`: from `jmnb.png`
